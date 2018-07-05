@@ -5,3 +5,5 @@
 * Tourist Info- Helps find attractions
 * Python Calculator
 * Pycharm Files
+* Titanic Python Code
+* Frozen Ice Game
