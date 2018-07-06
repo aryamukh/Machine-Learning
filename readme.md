@@ -3,7 +3,7 @@
 * Mean or Nice - Model to detect mean or nice comments
 * Chatbot - Chatbot about Marvel 
 * Tourist Info- Helps find attractions
-* Python Calculator
-* Pycharm Files
-* Titanic Python Code
-* Frozen Ice Game
+* Python Calculator-Multivariable Calculator
+* Pycharm Files-Pycharm Operators
+* Titanic Python Code- Calculates Survival Rate
+* Frozen Ice Game- Creates Maze

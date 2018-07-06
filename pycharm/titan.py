@@ -1,4 +1,3 @@
-import numpy as np
 import tflearn
 
 from tflearn.datasets import titanic
@@ -13,8 +12,7 @@ for p in data:
     else:
         p[1] = 0
 
-
-#for x in data:
+# for x in data:
 #     print(x)
 
 net = tflearn.input_data(shape=[None, 6])
@@ -35,3 +33,4 @@ print("Sirish's odds of survival: ", model.predict([[2, 0, 17, 2, 0, 80.00]])[0]
 print("William's odds of survival: ", model.predict([[2, 0, 16, 3, 0, 80.00]])[0][1])
 print("Luke's odds of survival: ", model.predict([[2, 0, 14, 3, 0, 80.00]])[0][1])
 print("Adam's odds of survival: ", model.predict([[3, 0, 15, 2, 0, 80.00]])[0][1])
+
