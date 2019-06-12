@@ -1,3 +1,6 @@
+# GSU CTY PROGRAM 2019
+## List of Projects
+--------------------------------------------------------
 # DMA AI & MACHINE LEARNING 2018
 ## List Of Projects
 * Mean or Nice - Model to detect mean or nice comments
@@ -7,3 +10,4 @@
 * Pycharm Files-Pycharm Operators
 * Titanic Python Code- Calculates Survival Rate
 * Frozen Ice Game- Creates Maze
+
